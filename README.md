@@ -2,6 +2,7 @@
 
 - 👩‍💻 Graduanda em Ciência da Computação pela UNICAP
 - 💻 Técnica de Computação Gráfica no IFPE
+- 🖥️ Estagiária de desenvolvimento de software 
 
 
 <div align="center">
